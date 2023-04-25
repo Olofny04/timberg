@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Avicii Hemsida</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Avicii</h1>
+    <nav>
+      <ul>
+        <li><a href="#biografi">Biografi</a></li>
+        <li><a href="#diskografi">Diskografi</a></li>
+        <li><a href="#låtar">Låtar</a></li>
+        <li><a href="#bilder">Bilder och videor</a></li>
+        <li><a href="#fansida">Fansida</a></li>
+      </ul>
+    </nav>
+  </header>
+  
+  <main>
+    <section id="biografi">
+      <h2>Biografi</h2>
+      <p>Avicii, eller Tim Bergling som han egentligen hette, föddes i Stockholm 1989. Han började göra musik redan som tonåring och slog igenom internationellt med sin hitlåt "Levels" 2011. Avicii kämpade med hälsoproblem under sin karriär och avled tragiskt 2018.</p>
+    </section>
+    
+    <section id="diskografi">
+      <h2>Diskografi</h2>
+      <ul>
+        <li>True (2013)</li>
+        <li>Stories (2015)</li>
+        <li>TIM (2019)</li>
+        <li>EP Avici 01 (2017)</li>
+      </ul>
+    </section>
+    
+    <section id="låtar">
+      <h2>Låtar</h2>
+      <ul>
+        <li>New New New</li>
+        <li>Bromance</li>
+        <li>Levels</li>
+        <li>X You</li>
+      </ul>
+    </section>
+    
+    <section id="bilder">
+      <h2>Bilder och videor</h2>
+      <img src="avicii1.jpg" alt="Avicii bild 1">
+      <img src="avicii2.jpg" alt="Avicii bild 2">
+      <video controls>
+        <source src="avicii-video.mp4" type="video/mp4">
+        Din webbläsare stödjer inte videoformatet.
+      </video>
+    </section>
+    
+    <section id="fansida">
+      <h2>Fansida</h2>
+      <p>Kommer snart...</p>
+    </section>
+  </main>
+  
+  <footer>
+    <p>&copy; 2023 Avicii Hemsida. Alla rättigheter förbehållna.</p>
+  </footer>
+</body>
+</html>
